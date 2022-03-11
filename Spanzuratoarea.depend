@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1645647547 source:c:\users\iulia.stanciu\desktop\facultate\programare\spanzuratoarea\main.cpp
+	"Spanzuratoarea.h"
+	<iostream>
+	<stdio.h>
+	<fstream>
+
+1645640045 c:\users\iulia.stanciu\desktop\facultate\programare\spanzuratoarea\spanzuratoarea.h
+	<string>
+	<vector>
+
+1645644579 source:c:\users\iulia.stanciu\desktop\facultate\programare\spanzuratoarea\spanzuratoarea.cpp
+	"Spanzuratoarea.h"
+	<Windows.h>
+	<unistd.h>
+	<iostream>
+	<fstream>
+	<cctype>
+	<string>
+	<vector>
+	<algorithm>
+	<random>
+	<chrono>
+
